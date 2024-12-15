@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|c:\\users\\pancho\\desktop\\1\\original\\service\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|solutionrelative:service\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\service\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|solutionrelative:service\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\security\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|solutionrelative:security\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\security\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|solutionrelative:security\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\security\\logs\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|solutionrelative:security\\logs\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\security\\logs\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|solutionrelative:security\\logs\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\security\\authorization\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|solutionrelative:security\\authorization\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\security\\authorization\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|solutionrelative:security\\authorization\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\security\\authorization\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|solutionrelative:security\\authorization\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\security\\auth\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|solutionrelative:security\\auth\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\security\\auth\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|solutionrelative:security\\auth\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\security\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70573D-0755-44D1-9348-8BF0E62BADF6}|Security\\Security.csproj|solutionrelative:security\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\service\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|solutionrelative:service\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\nwind.mvcpls1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|solutionrelative:nwind.mvcpls1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\service\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|solutionrelative:service\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\service\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|solutionrelative:service\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\service\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|solutionrelative:service\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PANCHO\\AppData\\Local\\Temp\\readme1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PANCHO\\AppData\\Local\\Temp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\nwind.mvcpls1\\views\\home\\cud.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|solutionrelative:nwind.mvcpls1\\views\\home\\cud.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\nwind.mvcpls1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|solutionrelative:nwind.mvcpls1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\nwind.mvcpls1\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|solutionrelative:nwind.mvcpls1\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0092B551-63E7-4BB0-ABAD-E9DA9C4E96A1}|BLL\\BLL.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\bll\\productslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0092B551-63E7-4BB0-ABAD-E9DA9C4E96A1}|BLL\\BLL.csproj|solutionrelative:bll\\productslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\nwind.mvcpls1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|solutionrelative:nwind.mvcpls1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\nwind.mvcpls1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|solutionrelative:nwind.mvcpls1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4F2590DB-587A-4075-B3A3-0EA78A2D9E71}|Service\\Service.csproj|solutionrelative:service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "readme1.txt",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\AppData\\Local\\Temp\\readme1.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\readme1.txt",
+              "ToolTip": "C:\\Users\\PANCHO\\AppData\\Local\\Temp\\readme1.txt",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\readme1.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-14T20:52:41.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\AppData\\Local\\Temp\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\readme.txt",
+              "ToolTip": "C:\\Users\\PANCHO\\AppData\\Local\\Temp\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\readme.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-14T20:35:16.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Service\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Service\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:14:58.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Service\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Service\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:03:18.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Service\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Service\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:03:17.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Service\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Service\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:53:12.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Service\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Service\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:52:41.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Security\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Security\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:48:08.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Security\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Models\\User.cs",
+              "RelativeToolTip": "Security\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:47:54.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Logs\\LogService.cs",
+              "RelativeDocumentMoniker": "Security\\Logs\\LogService.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Logs\\LogService.cs",
+              "RelativeToolTip": "Security\\Logs\\LogService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:47:32.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Logs\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Security\\Logs\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Logs\\AuditLog.cs",
+              "RelativeToolTip": "Security\\Logs\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:47:16.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorizationService.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Authorization\\AuthorizationService.cs",
+              "RelativeDocumentMoniker": "Security\\Authorization\\AuthorizationService.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Authorization\\AuthorizationService.cs",
+              "RelativeToolTip": "Security\\Authorization\\AuthorizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:47:00.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Authorization\\Policy.cs",
+              "RelativeDocumentMoniker": "Security\\Authorization\\Policy.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Authorization\\Policy.cs",
+              "RelativeToolTip": "Security\\Authorization\\Policy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:46:23.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Authorization\\Role.cs",
+              "RelativeDocumentMoniker": "Security\\Authorization\\Role.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Authorization\\Role.cs",
+              "RelativeToolTip": "Security\\Authorization\\Role.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:46:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "Security\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Auth\\AuthService.cs",
+              "RelativeToolTip": "Security\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:45:28.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Auth\\TokenManager.cs",
+              "RelativeDocumentMoniker": "Security\\Auth\\TokenManager.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Auth\\TokenManager.cs",
+              "RelativeToolTip": "Security\\Auth\\TokenManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:44:10.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Auth\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Security\\Auth\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Security\\Auth\\PasswordHasher.cs",
+              "RelativeToolTip": "Security\\Auth\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:43:52.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "Service\\Controllers\\SecurityController.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "Service\\Controllers\\SecurityController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:35:16.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\NWind.MVCPLS1\\Web.config",
+              "RelativeDocumentMoniker": "NWind.MVCPLS1\\Web.config",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\NWind.MVCPLS1\\Web.config",
+              "RelativeToolTip": "NWind.MVCPLS1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-14T19:48:21.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\Web.config",
+              "RelativeDocumentMoniker": "Service\\Web.config",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\Service\\Web.config",
+              "RelativeToolTip": "Service\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAMBtwHIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-14T19:47:45.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductsLogic.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\BLL\\ProductsLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\ProductsLogic.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\BLL\\ProductsLogic.cs",
+              "RelativeToolTip": "BLL\\ProductsLogic.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:08:17.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\NWind.MVCPLS1\\Views\\Home\\List.cshtml",
+              "RelativeDocumentMoniker": "NWind.MVCPLS1\\Views\\Home\\List.cshtml",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\NWind.MVCPLS1\\Views\\Home\\List.cshtml",
+              "RelativeToolTip": "NWind.MVCPLS1\\Views\\Home\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:15:01.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\NWind.MVCPLS1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NWind.MVCPLS1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\NWind.MVCPLS1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NWind.MVCPLS1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:08:09.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\NWind.MVCPLS1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NWind.MVCPLS1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\NWind.MVCPLS1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NWind.MVCPLS1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:05:24.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CUD.cshtml",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\NWind.MVCPLS1\\Views\\Home\\CUD.cshtml",
+              "RelativeDocumentMoniker": "NWind.MVCPLS1\\Views\\Home\\CUD.cshtml",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\NWind.MVCPLS1\\Views\\Home\\CUD.cshtml",
+              "RelativeToolTip": "NWind.MVCPLS1\\Views\\Home\\CUD.cshtml",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAqwIQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:08:07.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\NWind.MVCPLS1\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "NWind.MVCPLS1\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PANCHO\\Desktop\\1\\ORIGINAL\\NWind.MVCPLS1\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "NWind.MVCPLS1\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:08:08.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 861,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
